@@ -1,0 +1,16 @@
+{
+  "name": "googleapitest",
+  "version": "1.0.0",
+  "description": "test api",
+  "main": "quickstart.js",
+  "dependencies": {
+    "google-auth-library": "^0.9.9",
+    "googleapis": "^14.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node quickstart.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
